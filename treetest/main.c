@@ -38,6 +38,12 @@ int main()
     
     freeBinTree( tree);
     
+    bintree * treeb;
+    treeb = NULL;
+    treeb = insertKey(5, 1, treeb);
+    printBinTree(treeb);
+    treeb = deleteKey(5, treeb);
+    printBinTree(treeb);
     return 0;
     
 }
