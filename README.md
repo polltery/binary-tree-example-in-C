@@ -106,6 +106,10 @@ findKey( int key, bintree *node);
 printf( "Value for key 10: %d\n", findKey( 10, tree));    // This will print "1"
 ```
 
-If you have a suggestion then add it to the issue tracker, or improve the code and then please send me a pull request.
+##Contribution
+header files, and print functions by Heriot Watt University, Mathematical and Computer Science School.
+The code was then implemented by adding most of the functions by me and few functions by Noha. After the coursework ended, it was further tested by me, Noha and Mark. Few parts of the code were also tested by Grigor, Roshan, and Matthew.
 
-**Note**:*This code was written as a part of the coursework at Heriot Watt University (Dubai Campus)*
+If you have a suggestion then add it to the issue tracker, or improve the code and then send me a pull request.
+
+**Note**:*This code was written as a part of a coursework at Heriot Watt University (Dubai Campus)*
